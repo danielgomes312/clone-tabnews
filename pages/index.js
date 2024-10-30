@@ -10,6 +10,9 @@ function Home() {
       <h2>Lets add something more to teste the error mesenger</h2>
       <h2>if I make ane change here it's gonna be a big ona</h2>
       <h2>Just test again</h2>
+      <h2>
+        Lets put another line, I Want to see the time to change in the page
+      </h2>
     </div>
   );
 }
