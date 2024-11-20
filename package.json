@@ -10,8 +10,8 @@
     "services:down": "docker compose -f infra/compose.yaml down",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
-    "teste": "jest",
-    "teste:watch": "jest --watchAll"
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "author": "",
   "license": "MIT",
